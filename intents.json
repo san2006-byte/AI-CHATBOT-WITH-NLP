@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": ["Hello!", "Hi there!", "Hey!"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you"],
+      "responses": ["Bye!", "Take care!", "See you soon!"]
+    },
+    {
+      "tag": "python_list",
+      "patterns": ["What is a list in Python?", "Explain list", "Python list"],
+      "responses": ["A list in Python is an ordered collection of items using square brackets []."]
+    },
+    {
+      "tag": "python_function",
+      "patterns": ["What is a function?", "Explain function", "Python function"],
+      "responses": ["A function in Python is a reusable block of code using the 'def' keyword."]
+    },
+    {
+      "tag": "python_loop",
+      "patterns": ["What is a for loop?", "Explain loop", "Python loop"],
+      "responses": ["A for loop in Python is used to iterate over a sequence."]
+    }
+  ]
+}
