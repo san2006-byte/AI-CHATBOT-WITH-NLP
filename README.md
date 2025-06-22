@@ -6,7 +6,7 @@
 
 *INTERN ID* : CT04DG1363
 
-*DOMAIN* : Python Programming
+*DOMAIN* : PYTHON PROGRAMMING
 
 *DURATION* : 4 WEEKS
 
@@ -27,4 +27,5 @@
   All in all, I learned more than just how to write code from this project. It demonstrated to me how chatbots can be developed step-by-step, how machines can be made to understand human communication, and how crucial it is to combine data, logic, and user experience when creating intelligent systems. I'm now more comfortable using Python for real-world AI applications as well as scripting.
 
   *OUTPUT*:
+  ![Image](https://github.com/user-attachments/assets/041e5847-93a2-40fd-9816-3f68e4f6eb2a)
   
